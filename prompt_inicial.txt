@@ -1,0 +1,1 @@
+A questão a seguir terá a seguinte estrutura: Titulo, descrição, entrada e saída, você deverá me responder com um código de programação que resolva o problema. A linguagem de programação deve em *linguagem de programaçao*.
