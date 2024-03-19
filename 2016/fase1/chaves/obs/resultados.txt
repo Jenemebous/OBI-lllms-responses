@@ -1,5 +1,20 @@
+TITULO
+Chaves
+
 Na linguagem PYTHON:
+100/100
+
 Na linguagem C:
+50/100 pontos
+2 subtarefas, acertou 1 completa
+
 Na linguagem C++:
+Submeti 2 vezes e deu isso:
+"Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site."
+
 Na linguagem JAVA:
+0/100 pontos
+
 Na linguagem JAVASCRIPT:
+Submeti 2 vezes e deu isso:
+"Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site."

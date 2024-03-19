@@ -1,5 +1,26 @@
+TITULO
+Sanduíche
+
 Na linguagem PYTHON:
+Submeti 2 vezes
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.
+
 Na linguagem C:
+Submeti 3 vezes
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.
+0/100
+5 subtarefas
+
 Na linguagem C++:
+Submeti 3 vezes
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.
+0/100
+5 subtarefas
+
 Na linguagem JAVA:
+0/100
+Compilação terminou com falha
+
 Na linguagem JAVASCRIPT:
+Submeti 3 vezes
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.

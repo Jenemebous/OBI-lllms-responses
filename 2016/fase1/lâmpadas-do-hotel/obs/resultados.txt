@@ -1,5 +1,24 @@
+TITULO
+Lâmpadas do hotel
+
 Na linguagem PYTHON:
+0/100
+4 subtarefas
+
 Na linguagem C:
+Submeti 2 vezes e deu isto:
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.
+
 Na linguagem C++:
+Submeti 2 vezes e deu isto:
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.
+
 Na linguagem JAVA:
+0/100
+Compilação terminou com falha
+Submeti 2 vezes e deu isto:
+Ocorreu um problema durante o processamento de sua solução. Se o problema persistir, por favor contate o administrador do site.
+
 Na linguagem JAVASCRIPT:
+0/100 
+4 subtarefas
